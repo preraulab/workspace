@@ -20,7 +20,6 @@ function packagecode(fname, dest, toponly)
 %   See also: matlab.codetools.requiredFilesAndProducts, mkdir, copyfile
 %
 %   ∿∿∿  Prerau Laboratory MATLAB Codebase · sleepEEG.org  ∿∿∿
-%        Source: https://github.com/preraulab/labcode_main
 
 if nargin < 3
     toponly = true;  % Consider only top-level files by default

@@ -18,7 +18,6 @@ function clear_all_except(varargin)
 %   See also: clear, evalin, whos
 %
 %   ∿∿∿  Prerau Laboratory MATLAB Codebase · sleepEEG.org  ∿∿∿
-%        Source: https://github.com/preraulab/labcode_main
 
 if length(varargin)==1 && iscell(varargin{1})
     varargin=varargin{1};
