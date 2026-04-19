@@ -1,8 +1,9 @@
 API Reference
 =============
 
-.. mat:module:: .
+.. toctree::
+   :maxdepth: 1
 
-.. mat:autofunction:: ccc
-.. mat:autofunction:: clear_all_except
-.. mat:autofunction:: packagecode
+   api/ccc
+   api/clear_all_except
+   api/packagecode
